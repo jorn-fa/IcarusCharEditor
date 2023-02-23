@@ -1,0 +1,594 @@
+{
+	"UserID": "76561197963339771",
+	"MetaResources": [
+		{
+			"MetaRow": "Credits",
+			"Count": 458518
+		},
+		{
+			"MetaRow": "Exotic1",
+			"Count": 29450
+		},
+		{
+			"MetaRow": "Refund",
+			"Count": 1
+		}
+	],
+	"UnlockedFlags": [],
+	"Talents": [
+		{
+			"RowName": "Prospect_OLY_Forest_Recon",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Envirosuit",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Envirosuit_1",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Envirosuit_3",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Envirosuit_Inaris",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Carbon_Helmet_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Carbon_Arms_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Carbon_Chest_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Carbon_Legs_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Carbon_Feet_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Envirosuit_7",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Bow_Shengong_Charlie",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Envirosuit_6",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Survival_Backpack",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Archery_Backpack",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Food",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Workshop_Repair",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Canteen_Shengong",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Oxygen_Tank_Shengong",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Module_Movement",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Module_Consumption",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Bow_Larkwell",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_Corn",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_Pumpkin",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_Squash",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_Carrot",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_Wheat",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_Watermelon",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_Berry",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_Beans",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_Mushroom",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Axe_Printed",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Pickaxe_Shengong",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Firewhacker_Printed",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Axe_Shengong_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Axe_Shengong_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Axe_Shengong_Charlie",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Axe_Inaris_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Axe_Larkwell",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Pickaxe_Shengong_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Pickaxe_Shengong_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Pickaxe_Shengong_Delta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Pickaxe_Shengong_Charlie",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Pickaxe_Inaris_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Pickaxe_Larkwell",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Hammer_Printed",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Hammer_Shengong_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Hammer_Shengong_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Hammer_Larkwell",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Sickle_Printed",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Sickle_Larkwell",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Spear_Printed",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Spear_Shengong_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Spear_Shengong_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Spear_Shengong_Delta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Spear_Shengong_Charlie",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Pickaxe_Shengong_Delta_1",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Spear_Larkwell",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Knife_Printed",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Knife_Shengong_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Knife_Shengong_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Knife_Shengong_Beta_0",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Knife_Shengong_Charlie",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Pickaxe_Shengong_Delta_2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Knife_Larkwell",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Envirosuit_Shengong2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Envirosuit_Shengong",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Carbon_Legs",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Carbon_Arms",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Carbon_Head",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Carbon_Chest",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Carbon_Feet",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Bow_Shengong_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Bow_Shengong_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Arrow_Shengong",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Arrow_Printed_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Arrow_Printed_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Arrow_Inaris_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Arrow_Printed_Charlie",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Arrow_Larkwell_Ballistic",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Arrow_Larkwell_Tazer",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Arrow_Larkwell_Bleed",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Arrow_Larkwell_Standard",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Larkwell_Bolt_Standard",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Crossbow_Inaris_A",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Crossbow_Inaris_B",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Carbon_Helmet_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Carbon_Arms_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Carbon_Chest_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Carbon_Legs_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Carbon_Feet_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Meta_Power_Source",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Meta_Biofuel",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Envirosuit_5",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Antipoison_Vaccine_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Antipoison_Vaccine_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Antibiotic_Vaccine_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Antipoison_Vaccine_Charlie",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Antibiotic_Vaccine_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Antibiotic_Vaccine_Charlie",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Blood_Thinning_Vaccine_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Blood_Thinning_Vaccine_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Blood_Thinning_Vaccine_Charlie",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Antiparasitic_Vaccine_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Antiparasitic_Vaccine_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Antiparasitic_Vaccine_Charlie",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Module_World_Boss",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Module_PlayerTracker",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Module_Carry_Weight",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Module_Fall_Damage",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Module_Slots",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Module_Slots2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Module_Fire_Resistance",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Module_New_1",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Module_Poison_Resistence",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Module_New_2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Module_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Module_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Mining_Backpack",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Larkwell_Backpack_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Larkwell_Backpack_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Dropship_Beacon",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Coal_Fuel",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Campfire_Printed",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Furnace_Printed",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Crate_Printed",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Soda_Consumable",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Stamina_Gel",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Oxygen_Gel",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Super_Food",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Bandage_Shengong",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Forest_Scan",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Forest_Exploration",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Forest_Range",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Glacier_Expedition",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Glacier_Scan",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Glacier_Exploration",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Mining_Scanner",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Riverlands_Expedition",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Riverlands_Scan",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Riverlands_Extraction",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Riverlands_Extermination",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Meta_Scanner",
+			"Rank": 1
+		}
+	],
+	"NextChrSlot": 3,
+	"DataVersion": 2
+}

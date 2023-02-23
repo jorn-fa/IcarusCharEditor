@@ -1,0 +1,2270 @@
+{
+	"Characters.json": [
+		"{
+	\"CharacterName\": \"JORN\",
+	\"ChrSlot\": 0,
+	\"XP\": 152660,
+	\"XP_Debt\": 26,
+	\"IsDead\": false,
+	\"IsAbandoned\": false,
+	\"LastProspectId\": \"PussyClub\",
+	\"Location\": \"Prospect_Conifer\",
+	\"UnlockedFlags\": [ 11, 5, 10, 12 ],
+	\"MetaResources\": [],
+	\"Cosmetic\":
+	{
+		\"Customization_Head\": -2117162739,
+		\"Customization_Hair\": -2096280784,
+		\"Customization_HairColor\": 638853995,
+		\"Customization_Body\": 443353011,
+		\"Customization_BodyColor\": 94915310,
+		\"Customization_SkinTone\": 444802494,
+		\"Customization_HeadTattoo\": 1116649876,
+		\"Customization_HeadScar\": -1375231588,
+		\"Customization_HeadFacialHair\": 0,
+		\"Customization_CapLogo\": -1552113897,
+		\"IsMale\": false,
+		\"Customization_Voice\": 449631925,
+		\"Customization_EyeColor\": -574221801
+	},
+	\"Talents\": [
+		{
+			\"RowName\": \"Solo_Health\",
+			\"Rank\": 2
+		},
+		{
+			\"RowName\": \"Solo_Stamina\",
+			\"Rank\": 2
+		},
+		{
+			\"RowName\": \"Fabricator\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Compound_Bow\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Titanium_Arrow\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Composite_Arrow\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Biofuel_Generator\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Electric_Armour_Bench\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Composite_Chest\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Composite_Legs\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Composite_Feet\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Composite_Arms\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Composite_Head\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Crafting_Bench\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Mission_Communicator_T2\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Exotic_Delivery_Interface\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Wire_Tool\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Wood_Bow\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Stone_Arrow\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Bone_Arrow\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Stone_Knife\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"FlashLight\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Titanium_Spear\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Machete\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Composite_Spear\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Combat_Knife\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Titanium_Knife\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Deep_Ore_Scanner\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Hunting_Rifle\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Titanium_Hammer\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Titanium_Sickle\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Titanium_Pickaxe\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Titanium_Axe\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Titanium_Crossbow\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Titanium_Bolt\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Vapour_Condenser\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Portable_Beacon\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Dropship_Grenade\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Radar\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Electric_Furnace\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Material_Processor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Composite_Paste\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Extractor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Deep_Mining_Drill_Electric\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Worklamp_Directional\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Hydro_Crop_Plot\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Worklamp_OmniDirectional\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Advanced_Alteration_Bench\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Advanced_Alteration_Melee_Pack\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Advanced_Armor_Attachment_Pack\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Advanced_Ranged_Attachment_Pack\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Water_Pump\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Water_Sprinkler\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"SplineTool_Water\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Solar_Panel\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"WaterGenerator\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Chemistry_Bench\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Yield_Fertilizer\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Growth_Fertilizer\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Advanced_Kitchen_Bench\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Refrigerator\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Cooler_Large\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Electric_Dehumidifier\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Heater_Large\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Electric_Stove\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Advanced_Kitchen_Storage\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Advanced_Kitchen_Sink\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Carpentry_Bench_T4\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Composter_Electric\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Masonry_Bench_T4\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Machine_Bench\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Basic_Wall_Light\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Basic_Ceiling_Light\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Electronics\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Concrete_Furnace\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Canteen\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Thermos\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Cement_Mixer\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"binoculars\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Metal_Crate_Small\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Metal_Crate_Medium\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Metal_Cupboard\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Biofuel_Radar\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Biofuel_Extractor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Platinum_Axe\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Platinum_Pickaxe\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Platinum_Hammer\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Platinum_Spear\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Platinum_Knife\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Platinum_Sickle\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Platinum_Crossbow\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Platinum_Bolt\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Cave_Scanner\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Kitchen_Bench\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Antibiotic_Pill\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Antiparasitic_Pill\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Blood_Thinning_Pill\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Antipoison_Pill\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Kitchen_Stove\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Beer\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Wine\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Kitchen_Storage\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Dough_Bread\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Glass_Jar_Jam\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Smoke_Grenade\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Frag_Grenade\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Recurve_Bow\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Aluminium_Arrow\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Carbon_Arrow\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Carbon_Spear\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"lron_Crop_Plot\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Dehumidifier\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Repair_Bench\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Fire_Extinguisher\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Oxygen_Tank\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Metal_Oxite_Dissolver\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Composter\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Jerrycan\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Biofuel_Lamp\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Deep_Mining_Drill_Biofuel\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Advanced_Armor_Bench\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Saddle_Standard_Bag\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Alteration_Bench\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Melee_Attachment_Pack\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Armor_Attachment_Pack\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Ranged_Attachment_Pack\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Advanced_Cloth_Chest\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Advanced_Cloth_Legs\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Advanced_Cloth_Head\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Advanced_Cloth_Arms\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Advanced_Cloth_Feet\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Pistol_Handgun\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Shotgun\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"BoltAction_Rifle\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Pistol_Round\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Shotgun_Shell_Buckshot\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Rifle_Round\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Advanced_Leather_Chest\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Advanced_Leather_Legs\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Advanced_Leather_Head\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Advanced_Leather_Arms\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Advanced_Leather_Feet\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Rifle_Round_Incendiary\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Glassworking_Bench\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Glass_Jar\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Glass_Bottle_Beer\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Glass_Bottle_Wine\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Glass_Beam\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Hunter_Legs\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Hunter_Chest\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Hunter_Head\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Hunter_Arms\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Hunter_Feet\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Glass_Floor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Glass_Wall\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Glass_Wall_Angled\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Glass_Door\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Glass_Window\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Glass_Ramp\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Glass_Roof_Corner\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Concrete_Window\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Concrete_Beam\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Iron_Beam\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Concrete_Frame\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Concrete_Floor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Iron_Floor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Concrete_Railing\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Concrete_Floor_TrapDoor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Concrete_TrapDoor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Iron_Railing\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Iron_Floor_TrapDoor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Iron_Wall\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Iron_TrapDoor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Iron_Window\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Iron_Wall_Angled\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Iron_Door\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Iron_Ramp\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Iron_Roof_Corner\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Iron_Half_Pitch\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Iron_Stairs\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Iron_Halfpiece\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Iron_Ladder\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Concrete_Wall\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Concrete_Wall_Angled\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Concrete_Ramp\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Concrete_Stairs\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Concrete_Roof_Corner\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Concrete_Halfpitch\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Concrete_Halfpiece\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Crafting_Bench\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Oxite_Dissolver\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Oxygen_Bladder\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Rain_Reservoir\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Waterskin\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Waterbomb\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Stone_Furnace\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Fireplace\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Cooking_Station\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Mission_Communicator_T2\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"IceBox\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Wall_Torch\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"PotBellyStove\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Exotic_Delivery_Interface\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Brazier\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Anvil_Bench\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Metal_Axe\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Metal_Pickaxe\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Steel_Pickaxe\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Steel_Axe\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Metal_Knife\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Metal_Spear\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Steel_Spear\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Steel_Knife\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Shovel\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Taxidermy_Knife\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Sickle\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Iron_Hammer\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Crossbow\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Steel_Hammer\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Wood_Cupboard\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Metal_Bolt\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Copper_Bolt\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Steel_Bolt\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Shield_Wooden\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Skinning_Bench\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Trophy_Bench\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Longbow\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Flint_Arrow\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Steel_Arrow\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Wood_Hedgehog_Medium\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Small_Crop_Plot\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Mortar_And_Pestle\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Flour\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Crushed_Bone\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"LightningRod_Basic\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Wood_Composter\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Poison_Paste\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Epoxy\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Carbon_Paste\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Gunpowder\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Steel_Bloom\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Leather_Curtain_Window\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Leather_Curtain_Door\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Lantern\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Food_Trough\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Water_Trough\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Herbalism_Bench\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Armor_Bench\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Animal_Bed\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Saddle_Standard\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Basic_Backpack\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Leather_Chest_Armor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Leather_Head_Armor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Leather_Arms_Armor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Leather_Legs_Armor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Leather_Feet_Armor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Antiparasitic_Tonic\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Blood_Thinning_Tonic\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"AntiPoison_Tonic\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Antibiotic_Tonic\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Stamina_Enhancement_Tonic\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Health_Enhancement_Tonic\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Strength_Enhancement_Tonic\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Dough_Flatbread\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Rustic_Decoration_Bench\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Sustenence_Enhancement_Tonic\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Fur_Chest_Armor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Fur_Legs_Armor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Fur_Feet_Armor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Fur_Arms_Armor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Fur_Head_Armor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Fortification_Wood_Gate\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Fortification_Wood_Wall\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Fortification_Wood_Walkway\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Fortification_Wood_Spikes\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Carpentry_Bench\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Masonry_Bench\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Wood_Sign_Small\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Interior_Wood_Crate_Small\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Wood_Chair\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Bed_Wood\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Wood_Table\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Interior_Wood_Crate_Medium\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Wood_Cart\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Interior_Wood_Cupboard\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Interior_Wood_Beam\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Stone_Beam\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Stone_Frame\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Stone_Floor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Interior_Wood_Floor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Interior_Wood_Floor_TrapDoor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Interior_Wood_Railing\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Interior_Wood_TrapDoor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Reinforced_Railing\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Stone_Floor_TrapDoor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Reinforced_TrapDoor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Interior_Wood_Wall\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Stone_Wall\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Interior_Wood_Wall_Angled\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Interior_Wood_Door\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Reinforced_Door\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Stone_Wall_Angled\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Reinforced_Window\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Interior_Wood_Ramp\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Interior_Wood_Stairs\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Interior_Wood_Half_Pitch\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Interior_Wood_Ladder\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Interior_Wood_Halfpiece\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Stone_Ramp\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Stone_Stairs\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Stone_Half_Pitch\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Stone_Roof_Corner\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Stone_Halfpiece\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Reinforced_Ladder\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Stone_Knife\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Drying_Rack\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Wood_Spear\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Campfire\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Building_RepairTool\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Bone_Spear\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Bone_Knife\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Bone_Sickle\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Bed_Roll\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Firepit\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Firewhacker\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Wood_Rag_Torch\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Wood_Flare\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Floor_Torch\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Bandage_Basic\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Bandage_Cooling\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Suture_Kit\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Splint\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Bandage_Heat\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Wood_Bow\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Stone_Arrow\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Bone_Arrow\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Flare_Arrow\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Fire_Arrow\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Poison_Arrow\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Antipoison_Paste\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Antiparastic_Paste\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Blood_Thinning_Paste\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Antibiotic_Paste\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Cloth_Chest_Armor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Cloth_Head_Armor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Cloth_Arms_Armor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Cloth_Legs_Armor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Cloth_Feet_Armor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Basic_Oxite_Dissolver\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Wood_Crate_Small\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Wood_Crate_Medium\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Wood_Beam\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Thatch_Beam\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Thatch_Floor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Wood_Floor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Thatch_Railing\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Thatch_Floor_TrapDoor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Thatch_TrapDoor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Thatch_Wall\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Wood_Wall\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Wood_Railing\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Wood_Floor_TrapDoor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Wood_TrapDoor\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Wood_Window\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Wood_Wall_Angled\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Wood_Door\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Wood_Ramp\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Thatch_Ramp\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Wood_Roof_Corner\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Wood_Half_Pitch\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Wood_Stairs\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Wood_Halfpiece\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Wood_Ladder\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Thatch_Halfpiece\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Thatch_Stairs\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Thatch_Half_Pitch\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Thatch_Roof_Corner\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Thatch_Door\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Thatch_Wall_Angle\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Thatch_Window\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Thatch_Ladder\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Talent_Wood_Sticks\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Talent_Leather_Rope\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Ghillie_Chest\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Ghillie_Legs\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Ghillie_Head\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Ghillie_Arms\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Ghillie_Feet\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Polarbear_Chest\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Polarbear_Legs\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Polarbear_Feet\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Polarbear_Arms\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"PolarBear_Head\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Gathering_Bone_Yield\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Stalking_Damage_Stamina_Regen\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Stalking_Sneak_Speed\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Stalking_Base_Stamina\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Talent_Leather_Breakdown\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Stalking_Detection_Range\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Stalking_Storm_Stealth\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Hunting_Knife_Skinning_Durability\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Gathering_Leather_Yield\",
+			\"Rank\": 2
+		},
+		{
+			\"RowName\": \"Stalking_Blueprint_Ghillie\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Stalking_Base_Stamina_0\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Hunting_See_World_Boss\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Gathering_Polarbear_Recipe\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Crafting_Bench\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Advanced_Armor_Bench\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Gathering_Meat_Yield\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Gathering_Corpse_Movement\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Gathering_Corpse_Movement_0\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Stalking_Small_Highlight\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Gathering_Meat_Yield_0\",
+			\"Rank\": 2
+		},
+		{
+			\"RowName\": \"Stalking_Medium_Highlight\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Gathering_Bone_Yield_0\",
+			\"Rank\": 2
+		},
+		{
+			\"RowName\": \"Hunting_Cold_Hearted\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Stalking_Large_Highlight\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Resources_Increased_Wood\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Resources_Increased_Harvesting\",
+			\"Rank\": 4
+		},
+		{
+			\"RowName\": \"Resources_Increased_Stone\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Resources_Inventory_Capacity\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Resources_Encumbrance_Penalty\",
+			\"Rank\": 4
+		},
+		{
+			\"RowName\": \"Resources_Secondary_Fibre\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Resources_Increased_Wood_0\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Resources_Oxite_Miner\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Resources_Secondary_Voxel\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Resources_Exotic_Weight\",
+			\"Rank\": 4
+		},
+		{
+			\"RowName\": \"Resources_Inventory_Capacity_0\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Resources_Stone_Weight\",
+			\"Rank\": 4
+		},
+		{
+			\"RowName\": \"Resources_Wood_Weight\",
+			\"Rank\": 4
+		},
+		{
+			\"RowName\": \"Resources_Metal_Weight\",
+			\"Rank\": 4
+		},
+		{
+			\"RowName\": \"Resources_Increased_Metals\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Resources_Exotic_Movement\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Resources_Wood_Pickup\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Resources_Instant_Tree\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Exploration_Reduced_Tree_Damage\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Resources_Voxel_Instant\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Exploration_Base_Health\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Exploration_Base_Movement\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Exploration_Storm_Regen\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Exploration_Reduced_Exposure\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Exploration_Increased_Exposure_Decay\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Exploration_Reduced_Thirst\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Exploration_Reduced_Hunger\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Exploration_Reduced_Oxygen\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Exploration_Jump_Stamina\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Exploration_Healing_Revive\",
+			\"Rank\": 2
+		},
+		{
+			\"RowName\": \"Exploration_Weight_Capacity\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Exploration_Swim_Speed\",
+			\"Rank\": 2
+		},
+		{
+			\"RowName\": \"Exploration_Aura_Oxygen_Consumption\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Exploration_Fall_Damage\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Exploration_Swim_Oxygen\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Exploration_Nocturnal1\",
+			\"Rank\": 2
+		},
+		{
+			\"RowName\": \"Exploration_Nocturnal2\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Exploration_Movespeed_End_Drop\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Exploration_Revive_Regeneration\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Exploration_Sprain_Chance\",
+			\"Rank\": 2
+		},
+		{
+			\"RowName\": \"Exploration_Sprain_Recovery\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Exploration_Forest_Hero\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Exploration_Arctic_Hero\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Exploration_Desert_Hero\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Exploration_Party_Xp\",
+			\"Rank\": 1
+		}
+	]
+}",
+		"{
+	\"CharacterName\": \"HUNTRESS\",
+	\"ChrSlot\": 1,
+	\"XP\": 135393,
+	\"XP_Debt\": 19,
+	\"IsDead\": false,
+	\"IsAbandoned\": false,
+	\"LastProspectId\": \"PussyClub\",
+	\"Location\": \"Prospect_Conifer\",
+	\"UnlockedFlags\": [ 12 ],
+	\"MetaResources\": [],
+	\"Cosmetic\":
+	{
+		\"Customization_Head\": 1942677524,
+		\"Customization_Hair\": -1655351878,
+		\"Customization_HairColor\": 638853995,
+		\"Customization_Body\": 443353011,
+		\"Customization_BodyColor\": 94915310,
+		\"Customization_SkinTone\": 444802494,
+		\"Customization_HeadTattoo\": 0,
+		\"Customization_HeadScar\": 1816136390,
+		\"Customization_HeadFacialHair\": 0,
+		\"Customization_CapLogo\": -908737069,
+		\"IsMale\": false,
+		\"Customization_Voice\": -1075960021,
+		\"Customization_EyeColor\": -574221801
+	},
+	\"Talents\": [
+		{
+			\"RowName\": \"Wood_Bow\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Stone_Arrow\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Stone_Knife\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Bow_Movement_Speed1\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Bow_Projectile_Damage1\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Bone_Arrow\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Bow_Projectile_Damage2\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Biofuel_Generator\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Bone_Knife\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Stalking_Base_Stamina\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Gathering_Corpse_Movement\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Gathering_Meat_Yield\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Talent_Leather_Breakdown\",
+			\"Rank\": 1
+		}
+	]
+}",
+		"{
+	\"CharacterName\": \"HAPPYCHAPPI\",
+	\"ChrSlot\": 2,
+	\"XP\": 5018708,
+	\"XP_Debt\": 0,
+	\"IsDead\": false,
+	\"IsAbandoned\": false,
+	\"LastProspectId\": \"ZooTopia\",
+	\"Location\": \"Prospect_Conifer\",
+	\"UnlockedFlags\": [ 11, 5, 12 ],
+	\"MetaResources\": [],
+	\"Cosmetic\":
+	{
+		\"Customization_Head\": 733719613,
+		\"Customization_Hair\": -1998763022,
+		\"Customization_HairColor\": -1331948543,
+		\"Customization_Body\": 443353011,
+		\"Customization_BodyColor\": -282122402,
+		\"Customization_SkinTone\": 444802494,
+		\"Customization_HeadTattoo\": 1520811686,
+		\"Customization_HeadScar\": 1816136390,
+		\"Customization_HeadFacialHair\": 0,
+		\"Customization_CapLogo\": -504731082,
+		\"IsMale\": false,
+		\"Customization_Voice\": -1075960021,
+		\"Customization_EyeColor\": -260553991
+	},
+	\"Talents\": [
+		{
+			\"RowName\": \"Gathering_Bone_Yield\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Stalking_Damage_Stamina_Regen\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Stalking_Sneak_Speed\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Stalking_Base_Stamina\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Talent_Leather_Breakdown\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Stalking_Detection_Range\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Stalking_Storm_Stealth\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Hunting_Knife_Skinning_Durability\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Gathering_Leather_Yield\",
+			\"Rank\": 2
+		},
+		{
+			\"RowName\": \"Stalking_Blueprint_Ghillie\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Stalking_Base_Stamina_0\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Hunting_See_World_Boss\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Gathering_Polarbear_Recipe\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Crafting_Bench\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Advanced_Armor_Bench\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Gathering_Meat_Yield\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Gathering_Corpse_Movement\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Gathering_Corpse_Movement_0\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Stalking_Small_Highlight\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Gathering_Meat_Yield_0\",
+			\"Rank\": 2
+		},
+		{
+			\"RowName\": \"Stalking_Medium_Highlight\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Gathering_Bone_Yield_0\",
+			\"Rank\": 2
+		},
+		{
+			\"RowName\": \"Hunting_Cold_Hearted\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Stalking_Large_Highlight\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Resources_Increased_Wood\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Resources_Increased_Harvesting\",
+			\"Rank\": 4
+		},
+		{
+			\"RowName\": \"Resources_Increased_Stone\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Resources_Inventory_Capacity\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Resources_Encumbrance_Penalty\",
+			\"Rank\": 4
+		},
+		{
+			\"RowName\": \"Resources_Secondary_Fibre\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Resources_Increased_Wood_0\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Resources_Oxite_Miner\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Resources_Secondary_Voxel\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Resources_Exotic_Weight\",
+			\"Rank\": 4
+		},
+		{
+			\"RowName\": \"Resources_Inventory_Capacity_0\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Resources_Stone_Weight\",
+			\"Rank\": 4
+		},
+		{
+			\"RowName\": \"Resources_Wood_Weight\",
+			\"Rank\": 4
+		},
+		{
+			\"RowName\": \"Resources_Metal_Weight\",
+			\"Rank\": 4
+		},
+		{
+			\"RowName\": \"Resources_Increased_Metals\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Resources_Exotic_Movement\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Resources_Wood_Pickup\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Resources_Instant_Tree\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Exploration_Reduced_Tree_Damage\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Resources_Voxel_Instant\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Exploration_Base_Health\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Exploration_Base_Movement\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Exploration_Storm_Regen\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Exploration_Reduced_Exposure\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Exploration_Increased_Exposure_Decay\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Exploration_Reduced_Thirst\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Exploration_Reduced_Hunger\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Exploration_Reduced_Oxygen\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Exploration_Jump_Stamina\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Exploration_Healing_Revive\",
+			\"Rank\": 2
+		},
+		{
+			\"RowName\": \"Exploration_Weight_Capacity\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Exploration_Swim_Speed\",
+			\"Rank\": 2
+		},
+		{
+			\"RowName\": \"Exploration_Aura_Oxygen_Consumption\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Exploration_Fall_Damage\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Exploration_Swim_Oxygen\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Exploration_Nocturnal1\",
+			\"Rank\": 2
+		},
+		{
+			\"RowName\": \"Exploration_Nocturnal2\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Exploration_Movespeed_End_Drop\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Exploration_Revive_Regeneration\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Exploration_Sprain_Chance\",
+			\"Rank\": 2
+		},
+		{
+			\"RowName\": \"Exploration_Sprain_Recovery\",
+			\"Rank\": 3
+		},
+		{
+			\"RowName\": \"Exploration_Forest_Hero\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Exploration_Arctic_Hero\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Exploration_Desert_Hero\",
+			\"Rank\": 1
+		},
+		{
+			\"RowName\": \"Exploration_Party_Xp\",
+			\"Rank\": 1
+		}
+	]
+}"
+	]
+}
